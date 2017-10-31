@@ -1,3 +1,3 @@
 = Bisq DAO compensation requests
 
-This repository is where compensation requests are submitted during https://github.com/bisq-network/docs/tree/master/dao/phase-zero[Phase Zero] of the Bisq DAO. See https://github.com/bisq-network/docs/tree/master/dao/phase-zero#how-to-request-compensation for instructions.
+This repository is where compensation requests are submitted during https://github.com/bisq-network/docs/tree/master/dao/phase-zero[Phase Zero] of the Bisq DAO. Existing compensation requests can be found https://github.com/bisq-network/compensation/issues[here] and instructions how to submit your own can be found https://github.com/bisq-network/docs/tree/master/dao/phase-zero#how-to-request-compensation[here].
