@@ -1,9 +1,13 @@
 ## Summary
 
-> _Specify the total amount of BSQ you are requesting, and the BSQ address that amount should be paid to:_
+> _Specify the total amount of BSQ you are requesting:_
 
  - BSQ requested:
- - BSQ address:
+ 
+ <!--
+ Don't forget to make your compensation request in the actual Bisq DAO! See the following link for details:
+ https://docs.bisq.network/compensation.html
+ -->
 
 
 ## Contributions delivered
