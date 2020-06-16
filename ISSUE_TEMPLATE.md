@@ -19,7 +19,7 @@ Feel free to browse other requests if you're not sure about something, or reach 
 
 ## Contributions delivered
 
-> _Add contributions you have [delivered](https://github.com/bisq-network/proposals/issues/19) here as new rows in the table below. See comments below the table for guidance._
+> _Add contributions you have [delivered](https://github.com/bisq-network/proposals/issues/19) and roles you have performed here as new rows in the table below._
 
 | Title | Team | USD | Link | Notes |
 | --- | --- | --- | --- | --- |
