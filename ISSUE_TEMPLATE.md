@@ -1,5 +1,5 @@
 <!--
-Compensation requests have a specific format that enables them to be parsed programmatically for more efficient budgeting. Please make sure you stick to the template. A linter will evaluate your request after you remove [WIP] from the issue title and notify you of any issues.
+Compensation requests have a specific format that enables them to be evaluated by a bot for more efficient budgeting. Please make sure you stick to the template. A linter will evaluate your request after you remove [WIP] from the issue title and notify you of any issues.
 
 See the following link for details:
 https://bisq.wiki/Making_a_compensation_request
@@ -56,4 +56,4 @@ Example 3 - list of minor contributions, such as reviews:
 
 ## Contributions in progress
 
-> _Provide links to work you're involved with that is still [in progress](https://github.com/bisq-network/proposals/issues/19). **This section is optional (the parser ignores it),** and is for your own benefit in keeping track of what you're doing and keeping other contributors up to date with the same._
+> _Provide links to work you're involved with that is still [in progress](https://github.com/bisq-network/proposals/issues/19). **This section is optional (the linter ignores it),** and is for your own benefit in keeping track of what you're doing and keeping other contributors up to date with the same._
