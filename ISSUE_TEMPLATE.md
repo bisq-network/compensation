@@ -15,6 +15,7 @@ Feel free to browse other requests if you're not sure about something, or reach 
 - **BSQ requested**: **`[BSQ amount]`** <!-- [BSQ amount] should be: USD amount / BSQ rate -->
 - USD requested: [USD amount] <!-- [USD amount] should be: total of all contributions listed in "contributions delivered" table below -->
 - BSQ rate: [rate] USD per BSQ <!-- [rate] should be the rate used to determine the BSQ amount above, as specified in the cycle's rate announcement (https://bisq.wiki/Compensation_Maintainer#Announce_BSQ-USD_rate) -->
+- Previous compensation request (if applicable): #  <!-- Link to last compensation request submitted -->
 
 
 ## Contributions delivered
