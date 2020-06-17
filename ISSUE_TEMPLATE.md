@@ -10,7 +10,7 @@ Feel free to browse other requests if you're not sure about something, or reach 
 
 ## Summary
 
-> _Specify the total amount of BSQ you are requesting, along with the USD total and BSQ/USD rate:_
+> _Specify the total amount of BSQ you are requesting, along with the USD total and BSQ/USD rate (don't include the brackets!):_
 
 - **BSQ requested**: **`[BSQ amount]`** <!-- [BSQ amount] should be: USD amount / BSQ rate -->
 - USD requested: [USD amount] <!-- [USD amount] should be: total of all contributions listed in "contributions delivered" table below -->
@@ -24,6 +24,7 @@ Feel free to browse other requests if you're not sure about something, or reach 
 
 | Title | Team | USD | Link | Notes |
 | --- | --- | --- | --- | --- |
+| your | first | item | goes | here |
 
 <!-- 
 
