@@ -1,12 +1,20 @@
+---
+name: Default Template
+about: Make a compensation request using template
+title: 'For Cycle N'
+labels: ''
+assignees: ''
+
+---
+
 <!--
 Compensation requests have a specific format that enables them to be evaluated by a bot for more efficient budgeting. Please make sure you stick to the template. A linter will evaluate your request after you remove [WIP] from the issue title and notify you of any issues.
 
 See the following link for details:
 https://bisq.wiki/Making_a_compensation_request
 
-Feel free to browse other requests if you're not sure about something, or reach out in #compensation on Keybase (https://keybase.io/team/bisq).
+Feel free to browse other requests if you're not sure about something, or reach out on Matrix (https://bisq.chat/).
 -->
-
 
 ## Summary
 
@@ -16,7 +24,6 @@ Feel free to browse other requests if you're not sure about something, or reach 
 - USD requested: [USD amount] <!-- [USD amount] should be: total of all contributions listed in "contributions delivered" table below -->
 - BSQ rate: [rate] USD per BSQ <!-- [rate] should be the rate used to determine the BSQ amount above, as specified in the cycle's rate announcement (https://bisq.wiki/Compensation_Maintainer#Announce_BSQ-USD_rate) -->
 - Previous compensation request (if applicable): #  <!-- Link to last compensation request submitted -->
-
 
 ## Contributions delivered
 
@@ -54,7 +61,6 @@ Example 3 - list of minor contributions, such as reviews:
 | | dev | 400 | https://github.com/bisq-network/bisq/pull/4062 | Total for items above.
 
 -->
-
 
 ## Contributions in progress
 
